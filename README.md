@@ -2,8 +2,6 @@
 
 A hardware random binary output using a 555 timer oscillator feeding a D flip-flop. Press and hold a button to start the oscillator, release to freeze — one LED lights: Heads or Tails. No microcontroller, no code.
 
-![TinkerCAD Circuit](tinkercad.png)
-
 🔗 [View & Simulate on TinkerCAD](https://www.tinkercad.com/things/4sfJJk3QaNf-an-electronic-coin-tosser) · 🎥 [Demo Video](https://drive.google.com/file/d/1KQEllmfrdiKHDcCR0U9tdxpBOYMev8sn/view?usp=drive_link)
 
 ---
